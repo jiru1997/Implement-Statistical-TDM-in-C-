@@ -1,4 +1,4 @@
-# Implement-Statistical-TDM-in-C-
+# Implement-Statistical-TDM-in-CPP
 Implement Statistical TDM in C++
 
 ![image](https://user-images.githubusercontent.com/66343787/122701934-2d333e80-d203-11eb-81ce-f4f6eebfcadd.png)
